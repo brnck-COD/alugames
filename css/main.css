@@ -194,45 +194,4 @@
         font-size: 1em;
     }
 }
-  .adicionar-produto {
-       padding: 15px;
-   }
-
-   .parte-inferior {
-       flex-direction: column; /* Empilha a quantidade e os botões */
-       align-items: stretch; /* Estica os elementos para a largura total */
-       gap: 10px;
-   }
-
-   .quantidade-input {
-       width: 100%; /* Ocupa a largura total */
-   }
-
-   .botoes-wrapper {
-       flex-direction: column; /* Empilha os botões */
-       gap: 8px;
-       width: 100%; /* Ocupa a largura total */
-   }
-
-   .botao-form {
-       width: 100%; /* Estica os botões para a largura total */
-       padding: 12px;
-       font-size: 1rem;
-   }
-
-   .carrinho {
-       padding: 15px;
-       margin-top: 20px;
-   }
-
-   .carrinho__titulo {
-       font-size: 1.5rem;
-   }
-
-   .carrinho__produtos__produto {
-       font-size: 0.9rem;
-   }
-
-   .carrinho__total {
-       font-size: 1.1rem;
-   }
+ 
